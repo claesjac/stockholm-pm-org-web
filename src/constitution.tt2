@@ -1,3 +1,4 @@
+[% INCLUDE header page = 'constitution' %]
 <span class="h2">Stadgar &ouml;r Stockholm Perl Mongers</span>
 
 <p>
@@ -112,3 +113,4 @@ F&ouml;rslag om f&ouml;reningens uppl&ouml;sning f&aring;r endast framl&auml;gga
 </p>
 
 <a href="doc/stadgar.pdf">H&auml;mta som PDF</a>
+[% INCLUDE footer %]

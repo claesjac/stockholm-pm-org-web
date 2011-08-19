@@ -1,3 +1,4 @@
+[% INCLUDE header page = 'users' %]
 <span class="h2">Anv&auml;ndare</span>
  <p>
   F&ouml;ljande f&ouml;retag &amp; organisationer i Stockholm-omr&aring;det med omnejd anv&auml;nder sig av 
@@ -17,7 +18,5 @@
   <td><a href="http://www.init.se"><img src="images/logotypes/init.png"></a></td>
   <td><a href="http://www.solvare.se"><img src="images/logotypes/solvare.png"></a></td>
  </tr>
- <tr>
-  <td><a href="http://www.versed.se"><img src="images/logotypes/versed_solutions.png"></a></td>
- </tr<
 </table>
+[% INCLUDE footer %]

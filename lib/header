@@ -7,13 +7,14 @@
  </head>
  <body>
   <div id="header">
-   Stockholm Perl Mongers
+   <img src="images/stockholm_pm.png"/>
+  </div>
+  <div id="navigation">
+   <a href="index.html"[% IF page == 'index' %] class="cp"[% END %]>Om oss</a>&nbsp;&nbsp;&nbsp;
+   <a href="users.html"[% IF page == 'users' %] class="cp"[% END %]>Anv&auml;ndare</a>&nbsp;&nbsp;&nbsp;
+   <a href="news.html"[% IF page == 'news' %] class="cp"[% END %]>Nyheter</a>&nbsp;&nbsp;&nbsp;
+   <a href="constitution.html"[% IF page == 'constitution' %] class="cp"[% END %]>Stadgar</a>&nbsp;&nbsp;&nbsp;
+   <a href="board.html"[% IF page == 'board' %] class="cp"[% END %]>Styrelse</a>
   </div>
   <div id="page">
-   <div id="navigation">
-    &middot; <a href="index.html">Om oss</a><br>
-    &middot; <a href="users.html">Anv&auml;ndare</a><br>
-	&middot; <a href="constitution.html">Stadgar</a><br>
-	&middot; <a href="board.html">Styrelse</a><br>
-   </div>
    <div id="content">

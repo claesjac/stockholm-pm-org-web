@@ -1,3 +1,4 @@
+[% INCLUDE header page = 'board' %]
 <span class="h2">Styrelse</span>
  <p><b>Ordf&ouml;rande</b><br>
  Claes Jakobsson, claes (at) surfar.nu</p>
@@ -7,3 +8,4 @@
  Johan Viklund, johan.viklund (at) gmail.com</p>
 <p>
 </p>
+[% INCLUDE footer %]

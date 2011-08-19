@@ -1,0 +1,12 @@
+[% INCLUDE header page = 'news' %]
+<span class="h2">Nyheter</span>
+<p>
+<b>Nordic Perl Workshop 2008 - 24 &amp; 25 Maj</b><br>
+Nordic Perl Workshop &auml;r en &aring;rlig konferens/workshop f&ouml;r Perl 
+anv&auml;ndare fr&auml;mst i Norden men alla &auml;r s&aring;klart v&auml;lkomna. &Aring;rets workshop arrangeras i &aring;r h&auml;r i Stockholm. <a href="http://conferences.yapceurope.org/npw2008/">L&auml;s mer</a>.
+</p>
+<p>
+<b>YAPC::Europe 2008 - 13 till 15 augusti</b><br>
+&Aring;rets europeiska Perl-konferens g&aring;r i &aring;r av stapeln i K&ouml;penhamn och arrangeras av v&aring;ra v&auml;nner i Copenhagen Perl Mongers. <a href="http://www.yapceurope2008.org">L&auml;s mer</a>.
+</p>
+[% INCLUDE footer %]
