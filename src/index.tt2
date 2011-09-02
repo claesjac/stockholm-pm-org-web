@@ -1,6 +1,6 @@
 [% INCLUDE header page = 'index' %]
 <div class="announcements">
-N&auml;sta tr&auml;ff: den 30 augusti fr&aring;n 18.00 hos <a href="http://www.spotify.se">Spotify</a> - Birger Jarlsgatan 6, plan 4.
+N&auml;sta tr&auml;ff: den 25 oktober fr&aring;n 18.00 hos <a href="http://www.iis.se">.SE</a> - Ringv&auml;gen 100A, 9tr
 </div>
 <span class="h2">Om oss</span>
  <p>Vi &auml;r en grupp av utvecklare, s&aring;v&auml;l hobby och professionella, som gillar att anv&auml;nda programmeringsspr&aring;ket Perl och har 
